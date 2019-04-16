@@ -1,0 +1,6 @@
+com\springtest\repository\EmpleadoRepository.class
+com\springtest\model\Empleado.class
+com\springtest\controller\EmpleadoController.class
+com\springtest\dao\EmpleadoDAO.class
+com\springtest\ejemplo\EmpleadoApp.class
+com\springtest\EmpleadoApp.class
